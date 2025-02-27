@@ -1,0 +1,81 @@
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe.config
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.pdb
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor4.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.Properties.Resources.resources
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CopyComplete
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.exe
+C:\Users\user\OneDrive\바탕 화면\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.pdb
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.AssemblyReference.cache
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.exe
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.pdb
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe.config
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.pdb
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.Properties.Resources.resources
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.GenerateResource.cache
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CoreCompileInputs.cache
+D:\workspace\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CopyComplete
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe.config
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.pdb
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.AssemblyReference.cache
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor4.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.Properties.Resources.resources
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.GenerateResource.cache
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CoreCompileInputs.cache
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CopyComplete
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.exe
+C:\PG\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.pdb
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe.config
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.exe
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\YJ_SENSOR_DATA.pdb
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.AssemblyReference.cache
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor4.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.Properties.Resources.resources
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.GenerateResource.cache
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CoreCompileInputs.cache
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.csproj.CopyComplete
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.exe
+\\10.10.24.11\50.Project\200.스마트공장\#-유진테크\Dev\D-40.SOU\YJ_DATA_202628\MODBUS_TEST_2\obj\Debug\YJ_SENSOR_DATA.pdb

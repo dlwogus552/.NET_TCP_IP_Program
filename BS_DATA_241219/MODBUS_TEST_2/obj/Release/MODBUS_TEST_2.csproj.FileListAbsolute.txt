@@ -1,0 +1,13 @@
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\bin\Release\MODBUS_TEST_2.exe.config
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\bin\Release\MODBUS_TEST_2.exe
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\bin\Release\MODBUS_TEST_2.pdb
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.MainForm.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.Sensor4.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.Sensor3.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.Sensor2.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.Sensor1.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.Properties.Resources.resources
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.csproj.GenerateResource.cache
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.csproj.CoreCompileInputs.cache
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.exe
+C:\Users\SEONGMIN\Documents\GitHub\Hnt_KimJaea\MODBUS_TEST_2\MODBUS_TEST_2\obj\Release\MODBUS_TEST_2.pdb

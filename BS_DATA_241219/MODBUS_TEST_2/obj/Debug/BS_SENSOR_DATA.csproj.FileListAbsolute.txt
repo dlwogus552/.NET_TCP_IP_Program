@@ -1,0 +1,139 @@
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+D:\workspace\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+D:\workspace\중계프로그램\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+D:\PG\BS_DATA_240708\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+C:\Users\hntuser\Desktop\BS_DATA_240717_전력량계추가\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+D:\PG\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor5.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor4.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+C:\Users\user\OneDrive\바탕 화면\BS_DATA_240821\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe.config
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.exe
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\BS_SENSOR_DATA.pdb
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\System.Memory.dll
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\System.Buffers.dll
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\bin\Debug\MySql.Data.xml
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.AssemblyReference.cache
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.MainForm.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor5.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor4.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor3.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor2.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\MODBUS_TEST_2.Sensor1.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.Properties.Resources.resources
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.GenerateResource.cache
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CoreCompileInputs.cache
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.csproj.CopyComplete
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.exe
+C:\Users\BS_BLAST\Desktop\BS_DATA_241219\MODBUS_TEST_2\obj\Debug\BS_SENSOR_DATA.pdb
